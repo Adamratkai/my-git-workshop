@@ -3,7 +3,7 @@
 
 function add(a, b) {
     // TODO: return the sum of the numbers
-    a + b;
+    return a + b;
 }
 
 if (add(13, 5) === 18) {
